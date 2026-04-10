@@ -9,6 +9,7 @@ Projeto prático de banco de dados relacional com foco em integridade de dados, 
 - Pedro Paiva Ferreira
 - João Hugo Teixeira Martins Botelho
 - Bernardo Ladeira Leal de Medeiros
+- Mateus Silva Xavier
 - Igor Landim
 
 ### Estrutura do Projeto
